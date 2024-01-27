@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Bienvenida</title>
+</head>
+<body>
+  <h1>¡Bienvenidos!</h1>
+  <p>¡Bienvenido, Juan!</p>
+  <p>¡Bienvenido, Pedro!</p>
+  <p>¡Bienvenido, María!</p>
+</body>
+</html>
